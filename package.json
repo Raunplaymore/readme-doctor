@@ -1,5 +1,5 @@
 {
-  "name": "readme-doctor",
+  "name": "readme-doc-cli",
   "version": "0.1.0",
   "description": "Score README quality, detect missing sections, and generate improvement patches",
   "type": "module",
