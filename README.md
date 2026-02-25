@@ -104,6 +104,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 4. Push to the branch (`git push origin feat/my-feature`)
 5. Open a pull request
 
+## Support
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pmpt_cafe)
+
 ## License
 
 MIT
