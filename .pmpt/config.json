@@ -1,0 +1,12 @@
+{
+  "projectPath": "/Users/hwangjunguk/Desktop/dir_UK/readme-doctor",
+  "docsPath": ".pmpt/docs",
+  "ignorePatterns": [
+    "node_modules/**",
+    ".pmpt/.history/**",
+    "dist/**"
+  ],
+  "createdAt": "2026-02-25T23:10:00.000Z",
+  "repo": "https://github.com/Raunplaymore/readme-doctor",
+  "trackGit": true
+}

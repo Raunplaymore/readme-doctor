@@ -1,0 +1,12 @@
+{
+  "completed": true,
+  "startedAt": "2026-02-25T23:10:00.000Z",
+  "updatedAt": "2026-02-25T23:12:00.000Z",
+  "answers": {
+    "projectName": "readme-doctor",
+    "productIdea": "A CLI tool that scores README quality (0-100), detects missing/weak sections, generates improvement suggestions, and produces unified diff patches that can be applied with --write. Supports CI integration with --min-score and --strict flags.",
+    "additionalContext": "Zero-cost tool. No server, no API, no database. Pure local analysis. Should work on any README.md in any project. Target: open-source maintainers, individual developers, and team leads who want consistent README quality.",
+    "coreFeatures": "README score calculation (0-100); Missing/weak section detection; Improvement suggestion generation; Unified diff patch generation (--write to apply); CI failure conditions (--min-score, --strict)",
+    "techStack": "Node.js, TypeScript, commander, picocolors"
+  }
+}
